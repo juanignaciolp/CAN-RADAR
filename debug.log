@@ -7,3 +7,30 @@
 [1212/054900:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
 [0408/041907:ERROR:tcp_socket_win.cc(335)] bind() returned an error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (0x2740)
 [0408/041907:ERROR:devtools_http_handler.cc(229)] Cannot start http server for devtools. Stop devtools.
+[0409/224056:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0409/225110:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/000036:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/020803:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/031427:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/031432:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/031437:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/031442:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/031447:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/031452:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/031457:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/031502:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/031507:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/031512:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/031517:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/031522:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/031527:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/031532:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/031537:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/031542:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/031547:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/031552:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/031557:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/031611:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/031616:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/031625:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0410/031630:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
