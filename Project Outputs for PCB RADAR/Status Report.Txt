@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 05:46:31 On 18/4/2022
+
+Output: Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [CanRadar_v1.PcbDoc]
+   Generated File[CanRadar_v1.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 05:46:37 On 18/4/2022
